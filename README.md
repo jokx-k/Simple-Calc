@@ -14,5 +14,6 @@ Division
 ## How to Clone
 You can clone this repository using the following command:
 
-       ```bash
-  git clone https://github.com/jokx-k/Simple-Calc.git
+      
+   ```bash
+git clone https://github.com/jokx-k/Simple-Calc.git
